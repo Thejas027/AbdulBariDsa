@@ -18,7 +18,7 @@ Explore the different folders to learn and practice fundamental concepts of data
 Explore implementations related to arrays, a fundamental data structure in computer science.
 
 ### 📊 Graphs
-Dive into graph data structures, where contains implemantation of graphs using 
+Dive into graph data structures, where contains implemantation of graphs using <br>
 1.Adjacency matrix and travesals
 
 ### 📖 Hashing
